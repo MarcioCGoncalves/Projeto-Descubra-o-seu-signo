@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+    <signos>
+        <signo>
+             <dataInicio>21/03</dataInicio>
+             <dataFim>20/04</dataFim>
+            <signoNome>Áries</signoNome>
+            <descricao>As qualidades reforçadas pelo signo Carneiro são a coragem, a iniciativa, a capacidade de comando, a determinação, a autoconfiança, o entusiasmo, as ideias relâmpago. Em contrapartida, os defeitos amplificados pelo signo Carneiro são a violência, a impulsividade inconsciente, a imprudência e a teimosia.</descricao>
+        </signo>
+
+        <signo>
+             <dataInicio>21/04</dataInicio>
+             <dataFim>20/05</dataFim>
+            <signoNome>Touro</signoNome>
+            <descricao>As virtudes reforçadas pelo signo Touro são a atração pela arte e pela beleza, a resistência, o trabalho árduo, a paciência, a calma, os sentimentos duradouros, a boa gestão material. Por sua vez, os pontos menos bons que são amplificados pelo signo Touro são a lentidão, teimosia, inércia, ciúme, possessividade e ingenuidade.
+
+</descricao>
+        </signo>
+
+        <signo>
+             <dataInicio>21/05</dataInicio>
+             <dataFim>20/06</dataFim>
+            <signoNome>Gêmeos</signoNome>
+            <descricao>As aptidões amplificadas pelo signo Gémeos são a exterioridade, a adaptabilidade, a inteligência, o estudo, as viagens curtas, a educação, a flexibilidade mental, a eloquência, a curiosidade, o predomínio da razão. Os pontos negativos ampliados pelo signo Gémeos são a dispersão das energias (devido à quantidade do elemento ar presente), o nervosismo, a desorganização, a inquietação, a falta de afeto.</descricao>
+        </signo>
+
+        <signo>
+             <dataInicio>21/06</dataInicio>
+             <dataFim>22/07</dataFim>
+            <signoNome>Câncer</signoNome>
+            <descricao>As qualidades reforçadas pelo signo Caranguejo são a capacidade de interiorização, o movimento, a emoção, a grande sensibilidade e o sentimentalismo, a vida familiar, o caráter recetivo, as simpatias maternais, a memória, a tenacidade, a imaginação fértil. A parte menos harmoniosa que é amplificada pelo signo de Caranguejo é a tendência para a suscetibilidade, o carácter efeminado, a tendência para ser mutável e caprichoso, a timidez, a sensibilidade exagerada, o caráter temperamental.</descricao>
+        </signo>
+
+        <signo>
+             <dataInicio>23/07</dataInicio>
+             <dataFim>22/08</dataFim>
+            <signoNome>Leão</signoNome>
+            <descricao>As características positivas que são reforçadas pelo signo Leão são a capacidade de exteriorização, a força de vontade, a vitalidade, a autoridade, a firmeza, a organização, a dignidade, a nobreza, a sinceridade, a fidelidade, a confiança, a magnanimidade. As imperfeições que chamam a atenção no signo Leão são a vaidade, o orgulho, a tirania, a tendência para o dramatismo, a teatralidade para chamar a atenção, a procura exagerada da glória.</descricao>
+        </signo>
+
+        <signo>
+             <dataInicio>23/08</dataInicio>
+             <dataFim>22/09</dataFim>
+            <signoNome>Virgem</signoNome>
+            <descricao>Os pontos mais fortes que se amplificam no signo Virgem são a adaptabilidade, a materialidade, a crítica e a análise, a lógica, o discernimento, a perspicácia, a praticabilidade, a higiene, a eficiência, a consciência. As limitações amplificadas pelo signo Virgem são a crítica exagerada (aquela ínfima dúvida que faz com que sejam bastante severos consigo próprios), o egoísmo, a timidez, a hipocondria, o detalhe excessivo (com uma tendência para dividir os cabelos fio a fio), a falta de audácia.</descricao>
+        </signo>
+
+        <signo>
+             <dataInicio>23/09</dataInicio>
+             <dataFim>22/10</dataFim>
+            <signoNome>Libra</signoNome>
+            <descricao>As virtudes amplificadas pelo signo Balança são a exterioridade, o equilíbrio, a criatividade, o intelecto, a justiça, o sentido artístico, a delicadeza, o temperamento afetuoso. Os defeitos reforçados pelo signo Balança são a indolência, a falta de perseverança, a frivolidade, a tendência para se deixar influenciar facilmente por elogios, a indecisão.</descricao>
+        </signo>
+
+        <signo>
+             <dataInicio>23/10</dataInicio>
+             <dataFim>21/11</dataFim>
+            <signoNome>Escorpião</signoNome>
+            <descricao>As qualidades que se expandem no signo Escorpião são a regeneração, a curiosidade, o misticismo, a capacidade mental e o poder de pensar corretamente, a dignidade, a energia, a tenacidade. Os pontos menos positivos que são reforçados pelo signo Escorpião são a paixão excessiva, a inveja, a dissimulação, o ciúme, a arrogância, o extremismo, a tirania, a intransigência, o ódio, a brutalidade, a violência.</descricao>
+        </signo>
+
+        <signo>
+             <dataInicio>22/11</dataInicio>
+             <dataFim>21/12</dataFim>
+            <signoNome>Sagitário</signoNome>
+            <descricao>Os talentos que se fortalecem no signo Sagitário são a vitalidade, o entusiasmo, o otimismo, os conhecimentos superiores, a religiosidade, a sabedoria, a intuição, a audácia e o desprendimento face ao perigo, a franqueza. As partes menos positivas amplificadas pelo signo Sagitário são a inquietação, a dispersão espacial e mental, as tendências rebeldes, a imprudência, a propensão para a deambulação.</descricao>
+        </signo>
+
+        <signo>
+             <dataInicio>22/12</dataInicio>
+             <dataFim>19/01</dataFim>
+            <signoNome>Capricórnio</signoNome>
+            <descricao>Os dons amplificados pelo signo Capricórnio são a capacidade de interiorização, o movimento, a materialidade, a determinação, a responsabilidade, o foco e a concentração, o espírito metódico, a administração, o sentido do dever, a integridade, a economia, a perseverança, a habilidade, a prudência. Os defeitos amplificados pelo signo de Capricórnio são o desânimo, o pessimismo, o ressentimento, a frieza, o isolamento, o caráter frio e reservado, o egoísmo, o apego excessivo ao sucesso social, o rigor excessivo nos princípios.</descricao>
+        </signo>
+
+        <signo>
+             <dataInicio>20/01</dataInicio>
+             <dataFim>18/02</dataFim>
+            <signoNome>Aquário</signoNome>
+            <descricao>As virtudes reforçadas pelo signo Aquário são o intelecto, a fraternidade, a liberdade, o progresso, o humanismo social, a amizade, a fidelidade, a sinceridade, as tendências racionais e inventivas, o altruísmo, a independência, o poder de simpatia e de empatia. Os defeitos amplificados pelo signo Aquário são o desprezo exagerado pelas convenções, o anarquismo, as tendências rebeldes, as excentricidades.</descricao>
+        </signo>
+
+        <signo>
+             <dataInicio>19/02</dataInicio>
+             <dataFim>20/03</dataFim>
+            <signoNome>Peixes</signoNome>
+            <descricao>As qualidades amplificadas pelo signo Peixes são capacidade de rápida adaptação, o misticismo, o poder de sacrifício face aos outros, a espiritualidade, a hospitalidade, o romantismo, a sensibilidade e recetividade sublime, a imaginação, a generosidade, a compaixão, a sabedoria, a afetividade forte, as ideias brilhantes. Os defeitos amplificados pelo signo Peixes são a indecisão, o engano e dissimulação, a tendência para se fazer de vítima, a inquietação, a hipersensibilidade, a falta de estoicismo.</descricao>
+        </signo>
+        
+        
+    </signos>
